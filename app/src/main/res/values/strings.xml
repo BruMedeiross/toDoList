@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To do List</string>
+    <string name="title_task">Título</string>
+    <string name="data_task">Data</string>
+    <string name="hour_task">Hora</string>
+    <string name="desc_task">Descrição</string>
+    <string name="create_btn">Criar Tarefa</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="label_task">Tarefas</string>
+    <string name="new_task">Nova tarefa</string>
+    <string name="item_title">Passear com cachorro</string>
+    <string name="desc_title">01/01/2021 18:00</string>
+    <string name="label_menu_edit">Editar</string>
+    <string name="label_menu_delete">Deletar</string>
+    <string name="label_not_taks">Oops! Você ainda não \n adicionou tarefas</string>
+</resources>
