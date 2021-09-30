@@ -21,7 +21,6 @@ class TaskListAdapter : ListAdapter<Task, TaskListAdapter.TaskViewHolder>(DiffCa
         val binding = ItemTaskBinding.inflate(inflater, parent, false)
         return TaskViewHolder(binding)
     }
-
     override fun onBindViewHolder(holder: TaskViewHolder, position: Int) {
         holder.bind(getItem(position))
     }
