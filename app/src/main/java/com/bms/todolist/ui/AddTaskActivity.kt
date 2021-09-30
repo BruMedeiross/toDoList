@@ -34,7 +34,6 @@ class AddTaskActivity : AppCompatActivity() {
                 binding.hourTask.text = it.hour
             }
         }
-
         insertListeners()
     }
 
